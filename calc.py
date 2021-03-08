@@ -1,5 +1,11 @@
 def add(x,y):
-	return x+y+1
+<<<<<<< HEAD
+	if x==0:
+		return x+y+1
+=======
+	else:
+		return x+y+2
+>>>>>>> new_branch
 def sub(x,y):
 	return x-y
 def mul(x,y):
